@@ -1,0 +1,12 @@
+163.com
+netease.com
+music.163.com
+music.126.net
+api.iplay.163.com
+vod.126.net
+mcdn.126.net
+
+amemv.com
+snssdk.com
+bytecdn.com
+tiktokcdn.com
