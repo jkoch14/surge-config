@@ -1,6 +1,0 @@
-DOMAIN-SUFFIX,163.com
-DOMAIN-SUFFIX,netease.com
-DOMAIN-SUFFIX,music.163.com
-DOMAIN-SUFFIX,amemv.com
-DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,tiktokcdn.com
