@@ -1,2 +1,3 @@
 .amemv.com
 .snssdk.com
+.douyinpic.com
