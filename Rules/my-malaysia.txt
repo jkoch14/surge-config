@@ -1,5 +1,8 @@
 # > my-malaysia.txt
 
+DOMAIN-SUFFIX,tngdigital.com.my
+DOMAIN-SUFFIX,touchngo.com.my
+DOMAIN-SUFFIX,duitnow.my
 DOMAIN-SUFFIX,maybank2u.com.my
 DOMAIN-SUFFIX,pbebank.com.my
 DOMAIN-SUFFIX,hsbc.com.my
