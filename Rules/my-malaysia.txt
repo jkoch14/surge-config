@@ -1,0 +1,11 @@
+# > my-malaysia.txt
+
+DOMAIN-SUFFIX,maybank2u.com.my
+DOMAIN-SUFFIX,pbebank.com.my
+DOMAIN-SUFFIX,hsbc.com.my
+DOMAIN-SUFFIX,ocbc.com.my
+DOMAIN-SUFFIX,sc.com.my
+DOMAIN-SUFFIX,altel.my
+DOMAIN-SUFFIX,digi.com.my
+IP-CIDR,202.75.0.0/16,DIRECT,no-resolve
+IP-CIDR,121.254.0.0/16,DIRECT,no-resolve
