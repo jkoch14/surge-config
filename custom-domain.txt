@@ -1,0 +1,9 @@
+# NetEase
+music.163.com
+*.music.163.com
+interface.music.163.com
+*.netease.com
+
+# ByteDance
+*.snssdk.com
+*.amemv.com
