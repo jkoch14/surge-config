@@ -1,0 +1,5 @@
+# > Reject
+
+# > 抖音
+host-keyword, bds.snssdk.com, reject
+host-keyword, p3.pstatp.com, reject
