@@ -1,8 +1,12 @@
-# NetEase
-music.163.com
-interface.music.163.com
-
 
 # ByteDa
-snssdk.com
-amemv.com
+DOMAIN-SUFFIX,snssdk.com,PROXY
+DOMAIN-SUFFIX,amemv.com,PROXY
+
+# NetEase
+DOMAIN-SUFFIX,music.163.com,PROXY
+DOMAIN-SUFFIX,music.126.com,PROXY
+DOMAIN-SUFFIX,interface.music.163.com,PROXY
+
+
+
