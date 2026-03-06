@@ -1,5 +1,0 @@
-DOMAIN-SUFFIX,amemv.com
-DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,bytecdn.cn
-DOMAIN-SUFFIX,bytedance.com
-DOMAIN-SUFFIX,bytedance.net
