@@ -1,0 +1,63 @@
+# NAME: Foreign
+# UPDATED: 2026-03-06
+# TYPE: DOMAIN-SUFFIX / DOMAIN
+
+# ====== Google ======
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,ytimg.com
+
+# ====== Social ======
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,t.me
+
+# ====== AI ======
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,anthropic.com
+
+# ====== Developer ======
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,cloudflare.com
+
+# ====== Streaming ======
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-SUFFIX,disneyplus.com
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,primevideo.com
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotifycdn.com
+
+# ====== Tools ======
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,skype.com
+
+# ====== CDN ======
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,cloudfront.net
+
+# END
