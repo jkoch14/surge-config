@@ -8,30 +8,24 @@ DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,apps.apple.com
 
-#e! ====== App Store / ffe! ====== Apple d8;e
-0e! ======
+# AppStore
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple-pay-gateway.apple
 
-#e! ====== f
-(i
 fIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,apns.apple.com
 
-# ====== Apple CDN ======
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,akamaitechnologies.com
 DOMAIN-SUFFIX,apple.com.edgesuite.net
 DOMAIN-SUFFIX,mzstatic.com
 
-# ====== TestFlight ======
 DOMAIN-SUFFIX,testflight.apple.com
 
-# ====== Apple Music ======
 DOMAIN-SUFFIX,music.apple.com
 DOMAIN-SUFFIX,aod.itunes.apple.com
 
